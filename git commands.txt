@@ -18,8 +18,11 @@ git push origin --delete branchnam
 
 git revert
 
+<<<<<<< HEAD
 
 git stash
+=======
+>>>>>>> 298132467a5b9827908f78ecf09b1919ea35aa7c
 git push
 git pull
 
