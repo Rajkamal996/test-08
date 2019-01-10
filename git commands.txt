@@ -15,9 +15,9 @@ git rebase
 git branch -d branchname
 git push origin --delete branchnam
 
-<<<<<<< HEAD
+
 git revert
-=======
+
 git push
 git pull
->>>>>>> 045241d89504b42c8c0737e71693ce701a96f337
+
