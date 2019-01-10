@@ -7,7 +7,6 @@ git add .
 git commit -m
 git push
 
-<<<<<<< HEAD
 git branch
 git checkout
 git merge
@@ -15,5 +14,3 @@ git rebase
 
 git branch -d branchname
 git push origin --delete branchnam
-=======
->>>>>>> parent of baff3c7... git branch
