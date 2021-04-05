@@ -3,9 +3,11 @@ git config --global user.email
 
 
 git init
+git status
 git add .
 git commit -m
 git push
+git log
 
 git branch
 git checkout
@@ -18,4 +20,6 @@ git revert
 git stash
 git push
 git pull
+git clone
+
 
